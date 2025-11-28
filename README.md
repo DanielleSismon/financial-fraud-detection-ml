@@ -40,7 +40,7 @@ Conclusion: The model is highly effective in shielding the system against financ
 
 ### 📂 Repository Structure
 -	fraud_detection_analysis.ipynb: The Jupyter Notebook containing all code, analysis, and visualizations.
--	Fraud.csv: (Link to original Kaggle source due to file size).
+-	Fraud.csv: ([Link to original Kaggle source due to file size](https://www.kaggle.com/datasets/parthaade/fraud-analysis)).
 
 ### 👩‍💻 Author
 Danielle Sismon
