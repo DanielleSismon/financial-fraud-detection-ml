@@ -38,6 +38,14 @@ Recall (Fraud)	82%	The model detects 4 out of every 5 actual fraud attempts.
 Precision	9%	We accept a higher volume of alerts to guarantee security.
 Conclusion: The model is highly effective in shielding the system against financial losses, meeting the institution's security objectives.
 
+<br>
+
+![Confusion Matrix](output.png)
+
+*Figure 1: Confusion Matrix showing the high Recall for the Fraud Class.*
+
+<br>
+
 ### 📂 Repository Structure
 -	fraud_detection_analysis.ipynb: The Jupyter Notebook containing all code, analysis, and visualizations.
 -	Fraud.csv: ([Link to original Kaggle source due to file size](https://www.kaggle.com/datasets/parthaade/fraud-analysis)).
